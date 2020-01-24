@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/RTradeLtd/libp2x-openssl/utils"
+	"github.com/RTradeLtd/libp2px-openssl/utils"
 )
 
 var (
